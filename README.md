@@ -1,7 +1,7 @@
 # HartreeFockEngine
 A C++ implementation of the Hartree Fock algorithm for simulating quantum n-body systems.
 
-Currently, algorithm can accurately calculate ground-state energy and atomic radius for Hydrogen, Helium, and Beryllium. 
+Currently, algorithm can accurately calculate ground-state energy and atomic radius for Hydrogen, Helium, and Beryllium.\n 
 Calculated ground state energy values vs ground truth:
 |    | **Calculated Value** | **Ground Truth Value** |
 | ------------- | ------------- | ------------- |
