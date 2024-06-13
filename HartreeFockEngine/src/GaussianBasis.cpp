@@ -20,10 +20,6 @@ double GaussianBasis::overlap(GaussianBasis b) {
     return coeff*b.coeff*pow((M_PI/(a+b.a)), 1.5);
 }
 
-double GaussianBasis::generalOverlap(GaussianBasis b) {
-    return coeff*b.coeff*pow((M_PI/(a+b.a)), 1.5);
-}
-
 double GaussianBasis::KineticEnergy(GaussianBasis b) {
     return coeff*b.coeff*(3*a*b.a*pow(M_PI, 1.5))/pow((a+b.a), 2.5);
 }
