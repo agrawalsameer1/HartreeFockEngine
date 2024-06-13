@@ -7,7 +7,7 @@ Currently, algorithm can accurately calculate ground-state energy and atomic rad
 |    | **Calculated Value** | **Ground Truth Value** |
 | ------------- | ------------- | ------------- |
 | Hydrogen | -0.499 Hartrees | -0.5 Hartrees |
-| Helium | −2.855 Hartrees | -2.903 Hartrees |
+| Helium | −2.860 Hartrees | -2.903 Hartrees |
 | Beryllium | -14.566 Hartrees | -14.698 Hartrees |
 
 
@@ -15,5 +15,5 @@ Currently, algorithm can accurately calculate ground-state energy and atomic rad
 |    | **Calculated Value** | **Ground Truth Value** |
 | ------------- | ------------- | ------------- |
 | Hydrogen | 52.8 picometers | 53 picometers |
-| Helium | 33 picometers | 32 picometers |
-| Beryllium | 108 picometers | 112 picometers |
+| Helium | 30.5 picometers | 32 picometers |
+| Beryllium | 129 picometers | 112 picometers |
