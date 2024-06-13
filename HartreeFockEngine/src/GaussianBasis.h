@@ -19,8 +19,6 @@ class GaussianBasis {
 
         double overlap(GaussianBasis b = GaussianBasis(-1, -1, -1));
 
-        double generalOverlap(GaussianBasis b = GaussianBasis(-1, -1, -1));
-
         double KineticEnergy(GaussianBasis b = GaussianBasis(-1, -1, -1));
 
         double Potential(GaussianBasis b = GaussianBasis(-1, -1, -1));
