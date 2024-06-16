@@ -17,3 +17,10 @@ Currently, algorithm can accurately calculate ground-state energy and atomic rad
 | Hydrogen | 52.8 picometers | 53 picometers |
 | Helium | 30.5 picometers | 31 picometers |
 | Beryllium | 128.9 picometers | 112 picometers |
+
+Algorithm can also accurately calculate ground-state energy values for various ions:
+|    | **Calculated Value** | **Ground Truth Value** |
+| ------------- | ------------- | ------------- |
+| H<sup>1</sup> | -0.499 Hartrees | -0.5 Hartrees |
+| He+ | −2.860 Hartrees | -2.903 Hartrees |
+| Li+ | -14.566 Hartrees | -14.698 Hartrees |
