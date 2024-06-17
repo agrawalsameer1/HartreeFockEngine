@@ -1,5 +1,5 @@
 # HartreeFockEngine
-A C++ implementation of the Hartree Fock algorithm for simulating quantum n-body systems, using the STO-6G basis set.
+A C++ implementation of the Hartree Fock algorithm for simulating quantum n-body systems, using the [STO-6G basis set]([url](https://www.basissetexchange.org/basis/sto-6g/format/nwchem/?version=1&elements=1,2,4)).
 
 Currently, algorithm can accurately calculate ground-state energy and atomic radius for Hydrogen, Helium, and Beryllium.
 
