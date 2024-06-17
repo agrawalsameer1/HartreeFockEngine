@@ -20,8 +20,8 @@ Currently, algorithm can accurately calculate ground-state energy and atomic rad
 
 Algorithm can also accurately calculate ground-state energy values for various ions:
 
-|    | **Calculated Value** | **Ground Truth Value** |
-| ------------- | ------------- | ------------- |
+|    | **Calculated Value** | **Ground Truth Value** | **Percent Error** |
+| ------------- | ------------- | ------------- | ------------- |
 | H<sup>1-</sup> | -0.470 Hartrees | -0.519 Hartrees | 9.44% |
 | He<sup>1+</sup> | −1.998 Hartrees | -1.998 Hartrees | 0.0% |
 | Li<sup>2+</sup> | −4.480 Hartrees | -4.455 Hartrees | 1.54% |
